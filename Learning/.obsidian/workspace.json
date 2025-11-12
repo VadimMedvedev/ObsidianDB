@@ -1,0 +1,212 @@
+{
+  "main": {
+    "id": "70f7b323825cd56c",
+    "type": "split",
+    "children": [
+      {
+        "id": "3b7247317c6884ae",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a4726796df173c6c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Программирование/Лекции Ansible.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Лекции Ansible"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d393357f0b83ab28",
+    "type": "split",
+    "children": [
+      {
+        "id": "cabbc35e077f392d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "106da9643ea5c1a6",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "1f1af453cfafe14f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "7a7002f9b8a00110",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "4accbd4db247c8d1",
+    "type": "split",
+    "children": [
+      {
+        "id": "3862a93130b09b32",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7e4a0efb7c5c9735",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "af55a80c5f5b65bf",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "ab68cd1c98cd56e6",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "b630a5762ff88a8f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:Create new base": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "a4726796df173c6c",
+  "lastOpenFiles": [
+    "Программирование/Лекции инфроструктура.md",
+    "Программирование/Формат yaml.md",
+    "Программирование/Программирование.md",
+    "Программирование/Лекции Ansible.md",
+    "Программирование/Лекции Zabbix.md",
+    "Программирование/Linux/Внутреннее устройство Linux/Лекции Админестрирование РедОС.md",
+    "Программирование/Linux/Внутреннее устройство Linux/Внутреннее устройство Linux.md",
+    "Программирование/Linux/Linux.md",
+    "Программирование/Linux/Bash скрипты.md",
+    "Программирование/Linux/Командная строка Linux/Команда echo.md",
+    "Программирование/Linux/Командная строка Linux/Команда cp.md",
+    "Программирование/Linux/Командная строка Linux/Командная строка Linux.md",
+    "Программирование/Linux/Командная строка Linux/Команда touch.md",
+    "Программирование/Linux/Командная строка Linux/Команда rm.md",
+    "Программирование/Linux/Командная строка Linux/Команда ls.md",
+    "Программирование/Linux/Командная строка Linux/Команда cat.md",
+    "Программирование/Git/Лекции git.md",
+    "Программирование/Git/Git.md",
+    "Программирование/Git",
+    "Математика/Алгебра/Алгебраическая операция.md",
+    "Математика/Алгебра/Алгебра.md",
+    "Математика/Общая топология/Топологические пространства.md",
+    "Математика/Общая топология/База топологии.md",
+    "Математика/Общая топология/Общая топология.md",
+    "Математика/Общая топология/Замкнутые множества. Базовые свойства.md",
+    "Математика/Математика.md",
+    "Математика/Алгебра/Изоморфизм алгебраических структур.md",
+    "Математика/Алгебра",
+    "Математика/Untitled.base",
+    "Математика/Общая топология/Untitled 1.base",
+    "Математика/Общая топология/Untitled.base",
+    "Математика/Линейная алгебра",
+    "Pictures/roots_of_unity.jpg",
+    "Математика/Общая топология",
+    "Математика/Аналитическая геометрия",
+    "Untitled 1.base",
+    "Untitled.base",
+    "Pictures/start_process_ls.png",
+    "Pictures/Linux_layers_OS.png",
+    "Untitled.canvas"
+  ]
+}
