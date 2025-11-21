@@ -1,5 +1,7 @@
 
-https://chat.deepseek.com/share/i3wzl96cv5h4zbvgp8
+https://chat.deepseek.com/share/i3wzl96cv5h4zbvgp8 - настройка пайплайнов для деплоя телеграм бота
+https://chat.deepseek.com/share/jpv7wcjcerg596aovd - настройка доступа запуска скрипта deploy.sh
+
 
 ### Ранеры
 
