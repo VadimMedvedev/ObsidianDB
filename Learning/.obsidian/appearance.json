@@ -1,5 +1,6 @@
 {
   "cssTheme": "",
   "interfaceFontFamily": "",
-  "baseFontSize": 16
+  "baseFontSize": 16,
+  "accentColor": "#9e5ce1"
 }
