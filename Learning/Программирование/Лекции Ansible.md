@@ -4,7 +4,7 @@ https://jinja.palletsprojects.com/en/stable/templates/ - документаци�
 ### Основные понятия
 
 inventory - это файл где перечислены все наши машины и сервера, где они объеденены в группы и т.д. На них указаны ip адреса, порты, и имена пользователей на этом устройстве.
-``` yaml
+```
 [group_name]
 server-1
 server-2 ansible_host=10.10.10.2 ansible_port=23 ansible_user=vadim

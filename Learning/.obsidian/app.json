@@ -3,5 +3,6 @@
   "alwaysUpdateLinks": true,
   "attachmentFolderPath": "/home/vadim/Obsidian/Pictures/",
   "showUnsupportedFiles": true,
-  "spellcheck": false
+  "spellcheck": false,
+  "promptDelete": false
 }
